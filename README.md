@@ -11,7 +11,7 @@ Desafio do programa Explorer da Rocketseat. Recriação de um layout com todos o
 ---
 
 <a href="#">
- <img src="./assets/eu.jpeg" width="100px;" alt="Foto do autor"/>
+ <img src="./images/eu.jpeg" width="100px;" alt="Foto do autor"/>
  <br />
  <p>Lucas Alves</p></a>
  
